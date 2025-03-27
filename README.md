@@ -16,14 +16,17 @@ The model is able to tell if the observed stellar entries are Galaxies, Stars or
  - SDSS17 dataset
  - Matplotlib
 
-**Results**
+**methodolgy**
+
 the dataset was divided in a 4:1 ratio between training and test sets. no validation split was used.
 
 **Results**
+
 The model achieved accuracy of up to 0.96 during testing.
 
 ![Model accuracy heatmap](results/results.png?raw=true)
 _______
 
 **Limitations**
+
 Due to my limited knowledge in astronomy readings, i wasn't able to fix all abnormalities in the raw data, which resulted in 0.04 inaccuracy in testing and up to 0.14 losses in training.
