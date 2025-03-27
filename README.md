@@ -26,4 +26,4 @@ The model achieved accuracy of up to 0.96 during testing.
 _______
 
 **Limitations**
-Due to my limited knowledge in astronomy readings, i wasn't able to fix all abnormalities in the raw data, which resulted in 0.04 inaccuracy in testing and up to 1.4 losses in training.
+Due to my limited knowledge in astronomy readings, i wasn't able to fix all abnormalities in the raw data, which resulted in 0.04 inaccuracy in testing and up to 0.14 losses in training.
